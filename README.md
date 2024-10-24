@@ -8,9 +8,12 @@ Hi there👋 My name is Chaesong Park.
 - 😄 Pronouns: ... she/her<br>
 - ⚡ Fun fact: ... I have startup founding and planning experience, but it didn't go as planned! hahaha<br><br>
 
-![Chaesong Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=gansong48&theme=default&show_icons=true)
-
-<a href="https://github.com/gansong48"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gansong48&layout=compact&theme=default_repocard_border=true" /></a><br>
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=gansong48&theme=default&show_icons=true" style="height: 180px; margin-right: 10px;" />
+    <a href="https://github.com/gansong48">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gansong48&layout=compact&theme=default_repocard_border=true" style="height: 180px;" />
+    </a>
+</div>
 
 ### 🛠 Languages and Tools
 
